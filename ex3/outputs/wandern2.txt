@@ -1,0 +1,24 @@
+Excursion distances:
+10
+60
+90
+
+Indexes of the 6 members who participate in any of the distances:
+0
+1
+2
+3
+4
+5
+
+Indexes of the members who participate in excursion of the distance 10:
+4
+5
+
+Indexes of the members who participate in excursion of the distance 90:
+1
+
+Indexes of the members who participate in excursion of the distance 60:
+0
+2
+3
