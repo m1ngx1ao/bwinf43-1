@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="123.54288mm"
+   height="74.637947mm"
+   viewBox="0 0 123.54288 74.637947"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="lower-bounds-domination-de.svg"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.1694726"
+     inkscape:cx="275.64302"
+     inkscape:cy="115.92679"
+     inkscape:window-width="1829"
+     inkscape:window-height="1057"
+     inkscape:window-x="83"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-23.659744,-54.149105)">
+    <rect
+       style="fill:#ffffff;stroke-width:0.727001;stroke-dasharray:none"
+       id="rect2"
+       width="123.54288"
+       height="74.637947"
+       x="23.659744"
+       y="54.149105" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.38717;stroke-dasharray:0.774339, 1.54868;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 128.6425,62.584733 V 115.492 115.1844"
+       id="path1-9-1-6-5-2" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.38717;stroke-dasharray:0.774339, 1.54868;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 111.03443,62.55831 v 52.90727 -0.3076"
+       id="path1-9-1-6-5" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.360011;stroke-dasharray:0.720023, 1.44005;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 103.79533,62.615133 v 45.745117 -0.26597"
+       id="path1-9-1" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.360011;stroke-dasharray:0.720023, 1.44005;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 72.168845,62.5944 v 45.74512 -0.26597"
+       id="path1-9" />
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.726985;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="63.898155"
+       height="6.9817767"
+       x="39.972523"
+       y="68.422676" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="64.332748"
+       y="73.120888"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="64.332748"
+         y="73.120888">Mitglied 0</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.727;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3"
+       width="63.898155"
+       height="6.9817767"
+       x="72.121239"
+       y="81.98098" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="96.481461"
+       y="86.679192"
+       id="text1-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="96.481461"
+         y="86.679192">Mitglied 1</tspan></text>
+    <rect
+       style="fill:#cccccc;stroke:#000000;stroke-width:0.727;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-3-1"
+       width="17.585951"
+       height="7.3182926"
+       x="111.03525"
+       y="95.685043" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.78647px;fill:#000000;stroke:none;stroke-width:0.359829;stroke-dasharray:none;stroke-opacity:1"
+       x="128.04099"
+       y="88.246864"
+       id="text1-7-2"
+       transform="scale(0.87762841,1.1394344)"><tspan
+         sodipodi:role="line"
+         id="tspan1-1-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.09608px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.359828"
+         x="128.04099"
+         y="88.246864">Mitglied 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="36.815681"
+       y="61.36124"
+       id="text1-4"><tspan
+         sodipodi:role="line"
+         id="tspan1-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="36.815681"
+         y="61.36124">100</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="39.68541"
+       y="114.60293"
+       id="text1-4-3"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="39.68541"
+         y="114.60293"
+         id="tspan2">dominiert</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.360011;stroke-dasharray:0.720023, 1.44005;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 39.841463,62.578665 v 45.745125 -0.26596"
+       id="path1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="39.856766"
+       y="111.14553"
+       id="text1-4-3-3"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="39.856766"
+         y="111.14553"
+         id="tspan2-5">Untergrenze 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="69.143066"
+       y="61.379066"
+       id="text1-4-7"><tspan
+         sodipodi:role="line"
+         id="tspan1-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="69.143066"
+         y="61.379066">150</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:3.13972px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="72.012794"
+       y="114.62076"
+       id="text1-4-3-7"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:3.13972px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="72.012794"
+         y="114.62076"
+         id="tspan2-1">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:3.13972px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="72.012794"
+         y="117.81664"
+         id="tspan7">dominiert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;line-height:2.82222px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="108.632"
+       y="121.84167"
+       id="text1-4-3-7-1"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="108.632"
+         y="121.84167"
+         id="tspan2-1-4">nicht</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="108.632"
+         y="124.72005"
+         id="tspan5">dominiert</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="72.184151"
+       y="111.16336"
+       id="text1-4-3-3-0"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="72.184151"
+         y="111.16336"
+         id="tspan2-5-2">Untergrenze 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="100.76955"
+       y="61.402557"
+       id="text1-4-7-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-9-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="100.76955"
+         y="61.402557">200</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="102.22313"
+       y="111.18685"
+       id="text1-4-3-3-0-5"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         sodipodi:role="line"
+         id="tspan6"
+         x="102.22313"
+         y="111.18685">Ober-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="102.22313"
+         y="114.00907"
+         id="tspan4">grenze 0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="137.66693"
+       y="111.20838"
+       id="text1-4-3-3-0-5-2"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         sodipodi:role="line"
+         id="tspan6-0"
+         x="137.66693"
+         y="111.20838">Ober-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="137.66693"
+         y="114.0306"
+         id="tspan4-4">grenze 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="129.13171"
+       y="118.2054"
+       id="text1-4-3-3-0-5-2-3"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         sodipodi:role="line"
+         id="tspan6-0-9"
+         x="129.13171"
+         y="118.2054">Ober-</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;line-height:1;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="129.13171"
+         y="121.02762"
+         id="tspan4-4-6">grenze 2</tspan></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.360011;stroke-dasharray:0.720023, 1.44005;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 135.97626,62.545584 V 108.2907 108.02473"
+       id="path1-9-1-6" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="132.95049"
+       y="61.323757"
+       id="text1-4-7-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan1-9-0-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="132.95049"
+         y="61.323757">250</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="108.00871"
+       y="61.337948"
+       id="text1-4-7-2-6-3"><tspan
+         sodipodi:role="line"
+         id="tspan1-9-0-7-2-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="108.00871"
+         y="61.337948">210</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="125.61676"
+       y="61.367413"
+       id="text1-4-7-2-6-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan1-9-0-7-2-0-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.41"
+         x="125.61676"
+         y="61.367413">240</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.410001;stroke-dasharray:none;stroke-opacity:1"
+       x="108.68922"
+       y="118.53057"
+       id="text1-4-3-3-0-5-6-1"><tspan
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:none;stroke-width:0.41"
+         x="108.68922"
+         y="118.53057"
+         id="tspan2-5-2-4-3-0">Untergrenze 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Consolas;-inkscape-font-specification:'Consolas, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;stroke:#000000;stroke-width:0.410001;stroke-dasharray:0.820002, 1.64;stroke-dashoffset:0;stroke-opacity:1"
+       x="117.56697"
+       y="52.685612"
+       id="text3"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="stroke-width:0.41"
+         x="117.56697"
+         y="52.685612" /></text>
+  </g>
+</svg>
