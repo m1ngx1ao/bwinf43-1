@@ -7,7 +7,6 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.LinkedList;
 import java.util.Arrays;
 
 public class InputRunner {
@@ -25,26 +24,22 @@ public class InputRunner {
 			}
 			List<List<String>> chains = new ArrayList<List<String>>(chainCount);
 			for (int cIdx = 0; cIdx < chainCount; cIdx++) {
-				splitLine = r.readLine().split(" ");
-				List<String> chain = new LinkedList<String>();
-				for (int eIdx = 0; eIdx < splitLine.length; eIdx += 2) {
-					chain.add(splitLine[eIdx]);
-				}
-				chains.add(chain);
+				splitLine = r.readLine().trim().split(" < ");
+				chains.add(Arrays.asList(splitLine));
 			}
-			splitLine = r.readLine().split(" ");
+			splitLine = r.readLine().trim().split(" ");
 			List<String> requestedExerciseIds = Arrays.asList(splitLine);
 			r.close();
 			System.out.println("Starting challenge " + i + "...");
 			long startTime = System.currentTimeMillis();
-			Solution resultOrder = orderOptimizer.execute(exerciseIds, chains, requestedExerciseIds);
+			Solution solution = orderOptimizer.execute(exerciseIds, chains, requestedExerciseIds);
 			long elapsedTimeInMs = System.currentTimeMillis() - startTime;
 			FileWriter fw = new FileWriter("outputs/schwierigkeiten" + i + ".txt");
-			fw.write(resultOrder.toString());
+			fw.write(solution.toString());
 			fw.flush();
 			fw.close();
 			System.out.println("   ... done in " + elapsedTimeInMs + " ms: optimized order contains "
-				+ resultOrder.getViolations().size() + " violations!");
+				+ solution.getViolations().size() + " violations!");
 		}
 	}
 

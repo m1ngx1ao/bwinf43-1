@@ -393,5 +393,5 @@ The following table summarizes the output to the solutions. Note that:
 | `schwierigkeiten1` | `A C G F D` | 7 | 0 |
 | `schwierigkeiten2` | `B E A D F G` | 11 | 3 |
 | `schwierigkeiten3` | `A E F G B C D H I J K L M N` | 15 | 4 |
-| `schwierigkeiten4` | `B I F N W ` | 269 | 0 |
-| `schwierigkeiten5` | `H R Z Q K B W C S E N A G`<br>`I Y J L M O F V D P X U T ` | 43 | 9 |
+| `schwierigkeiten4` | `B I F N W` | 269 | 0 |
+| `schwierigkeiten5` | `H R Z Q K S E C N O M J L`<br>`F V X D U A B G T W I P Y` | 43 | 3 |
