@@ -1,0 +1,21 @@
+Order of requested exercises:
+E B A D F G 
+
+The following inequalities are multi-sets and derived
+from shortcutting exercises that were not requested.
+
+Violations: 3 unique ones, total 3
+A < B
+D < E
+G < F
+
+Constraints: 9 unique ones, total 11
+A < B
+B < A
+B < D
+D < E
+E < A (2)
+E < D (2)
+E < F
+F < G
+G < F

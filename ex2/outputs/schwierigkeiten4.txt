@@ -1,0 +1,17 @@
+Order of requested exercises:
+B I F N W 
+
+The following inequalities are multi-sets and derived
+from shortcutting exercises that were not requested.
+
+Violations: none
+
+Constraints: 8 unique ones, total 269
+B < I (19)
+B < W (8)
+F < N (8)
+F < W (92)
+I < F
+I < N (7)
+I < W (94)
+N < W (40)

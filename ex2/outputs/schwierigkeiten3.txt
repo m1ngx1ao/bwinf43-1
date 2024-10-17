@@ -1,0 +1,28 @@
+Order of requested exercises:
+A E F G B C D I J L H K M N 
+
+The following inequalities are multi-sets and derived
+from shortcutting exercises that were not requested.
+
+Violations: 4 unique ones, total 4
+C < B
+D < A
+H < I
+N < M
+
+Constraints: 15 unique ones, total 15
+A < B
+A < E
+B < C
+B < D
+C < B
+D < A
+E < F
+F < G
+H < I
+I < J
+I < L
+J < K
+L < H
+M < N
+N < M
