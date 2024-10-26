@@ -117,7 +117,7 @@ The solution is optimal as we have already seen that any solution has at least t
 
 ## Example (Challenge 3): Disconnected Graphs
 
-Inequality graphs are not necessarily connected. For example, as shown in the following figure, the graph of challenge 3 has three disjoint vertex sets that are unrelated to each other.
+Inequality graphs are not necessarily connected. For example, as shown in the following figure, the graph of challenge 3 has three connected components that are unrelated to each other.
 
 ```mermaid
 
@@ -160,7 +160,7 @@ M --> N
 N --> M
 ```
 
-The next iterations operate along Kahn's algorithm an provide `E F G` in this order. This leads to the point where there are again no exercises without incoming edges. Now `B` and `I` tie with incoming degree $1$ and outgoing degree $2$. Let `B` be selected and `C < B` be added to the violations. The result is shown in the next figure.
+The next iterations operate along Kahn's algorithm and provide `E F G` in this order. This leads to the point where there are again no exercises without incoming edges. Now `B` and `I` tie with incoming degree $1$ and outgoing degree $2$. Let `B` be selected and `C < B` be added to the violations. The result is shown in the next figure.
 
 ```mermaid
 
@@ -304,7 +304,7 @@ The complexity of heuristical approach is as follows:
 * In order to remove the exercises to be ignored in the solution, $O(n)$ exercises need to be removed and their incoming and outgoing edges to be shortcut in $O(n\cdot p)$ each. This leads to a total of $O(n^2 \cdot p)$.
 * For the $O(n)$ remaining exercises, one is selected and removed after the other. It costs $O(n)$ to select each of them and $O(n\cdot p)$ to remove its edges. So, in total, constructing the order needs $O(n^2 \cdot p)$.
 
-In conlusion, the overall time complexity is $O(n^2 \cdot p)$, which is not critical for input sizes of $n \le 26$ and $p \le 65$.
+In conclusion, the overall time complexity is $O(n^2 \cdot p)$, which is not critical for input sizes of $n \le 26$ and $p \le 65$.
 
 # Class Diagram
 
@@ -387,7 +387,7 @@ The following table summarizes the output to the solutions. Note that:
 * Solutions without violations are obviously optimal (applies to `0`, `1`, and `4`).
 * Solutions to `2` and `3` are optimal as we have already seen [here](#example-challenge-2) and [here](#example-challenge-3).
 
-| Challenge | Solution | # Constriants | # Violations |
+| Challenge | Solution | # Constraints | # Violations |
 | -- | -- | --: | --: |
 | `schwierigkeiten0` | `B E D F C` | 7 | 0 |
 | `schwierigkeiten1` | `A C G F D` | 7 | 0 |
