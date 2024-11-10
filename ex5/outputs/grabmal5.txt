@@ -1,0 +1,58 @@
+Path [ time / section ]:
+[ 0 / 0 ]  Wait for 43864919 minutes.
+[ 43864919 / 0 ]  Move 8 sections to the right.
+[ 43864919 / 8 ]  Wait for 4202 minutes.
+[ 43869121 / 8 ]  Move 1 section to the right.
+[ 43869121 / 9 ]  Wait for 2630 minutes.
+[ 43871751 / 9 ]  Move 13 sections to the right.
+[ 43871751 / 22 ]  Wait for 5109 minutes.
+[ 43876860 / 22 ]  Move 3 sections to the right.
+[ 43876860 / 25 ]  Wait for 4821 minutes.
+[ 43881681 / 25 ]  Move 7 sections to the right.
+[ 43881681 / 32 ]  Wait for 1694 minutes.
+[ 43883375 / 32 ]  Move 2 sections to the right.
+[ 43883375 / 34 ]  Wait for 2894 minutes.
+[ 43886269 / 34 ]  Move 1 section to the right.
+[ 43886269 / 35 ]  Wait for 6099 minutes.
+[ 43892368 / 35 ]  Move 4 sections to the right.
+[ 43892368 / 39 ]  Wait for 1088 minutes.
+[ 43893456 / 39 ]  Move 6 sections to the right.
+[ 43893456 / 45 ]  Wait for 2223 minutes.
+[ 43895679 / 45 ]  Move 2 sections to the right.
+[ 43895679 / 47 ]  Wait for 2282 minutes.
+[ 43897961 / 47 ]  Move 2 sections to the right.
+[ 43897961 / 49 ]  Wait for 4079 minutes.
+[ 43902040 / 49 ]  Move 1 section to the right.
+[ 43902040 / 50 ]  Wait for 2989 minutes.
+[ 43905029 / 50 ]  Move 3 sections to the right.
+[ 43905029 / 53 ]  Wait for 5674 minutes.
+[ 43910703 / 53 ]  Move 2 sections to the right.
+[ 43910703 / 55 ]  Wait for 8667 minutes.
+[ 43919370 / 55 ]  Move 3 sections to the right.
+[ 43919370 / 58 ]  Wait for 3960 minutes.
+[ 43923330 / 58 ]  Move 5 sections to the right.
+[ 43923330 / 63 ]  Wait for 4464 minutes.
+[ 43927794 / 63 ]  Move 5 sections to the right.
+[ 43927794 / 68 ]  Wait for 481 minutes.
+[ 43928275 / 68 ]  Move 1 section to the right.
+[ 43928275 / 69 ]  Wait for 5447 minutes.
+[ 43933722 / 69 ]  Move 2 sections to the right.
+[ 43933722 / 71 ]  Wait for 4956 minutes.
+[ 43938678 / 71 ]  Move 1 section to the right.
+[ 43938678 / 72 ]  Wait for 3605 minutes.
+[ 43942283 / 72 ]  Move 2 sections to the right.
+[ 43942283 / 74 ]  Wait for 7567 minutes.
+[ 43949850 / 74 ]  Move 3 sections to the left.
+[ 43949850 / 71 ]  Wait for 7980 minutes.
+[ 43957830 / 71 ]  Move 1 section to the right.
+[ 43957830 / 72 ]  Wait for 2247 minutes.
+[ 43960077 / 72 ]  Move 2 sections to the right.
+[ 43960077 / 74 ]  Wait for 945 minutes.
+[ 43961022 / 74 ]  Move 6 sections to the right.
+[ 43961022 / 80 ]  Wait for 2261 minutes.
+[ 43963283 / 80 ]  Move 1 section to the right.
+[ 43963283 / 81 ]  Wait for 1222 minutes.
+[ 43964505 / 81 ]  Move 1 section to the right.
+[ 43964505 / 82 ]  Wait for 1485 minutes.
+[ 43965990 / 82 ]  Move 4 sections to the right.
+[ 43965990 / 86 ]  ARRIVED!

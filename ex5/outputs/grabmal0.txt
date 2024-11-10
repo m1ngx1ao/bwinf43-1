@@ -1,0 +1,6 @@
+Path [ time / section ]:
+[ 0 / 0 ]  Wait for 8 minutes.
+[ 8 / 0 ]  Move 2 sections to the right.
+[ 8 / 2 ]  Wait for 4 minutes.
+[ 12 / 2 ]  Move 2 sections to the right.
+[ 12 / 4 ]  ARRIVED!

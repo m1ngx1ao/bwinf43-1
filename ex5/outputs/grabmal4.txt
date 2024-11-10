@@ -1,0 +1,10 @@
+Path [ time / section ]:
+[ 0 / 0 ]  Wait for 3310143 minutes.
+[ 3310143 / 0 ]  Move 5 sections to the right.
+[ 3310143 / 5 ]  Wait for 53987 minutes.
+[ 3364130 / 5 ]  Move 1 section to the right.
+[ 3364130 / 6 ]  Wait for 28527 minutes.
+[ 3392657 / 6 ]  Move 2 sections to the right.
+[ 3392657 / 8 ]  Wait for 40240 minutes.
+[ 3432897 / 8 ]  Move 3 sections to the right.
+[ 3432897 / 11 ]  ARRIVED!
